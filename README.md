@@ -5,7 +5,6 @@ alt="Linkedin" width=2.8%  border="10" /></a>
 <a href="https://github.com/kevincai79" target="_blank"><img src="https://github.com/kevincai79/Resume/blob/master/github.jpeg" 
 alt="Github" width=5%  border="10" /></a>
 </h5>
-______
 
 I’m an entrepreneur and innovator who has been in tech industry since early 2017. With10+ years experience in Marketing, Event Planning and Trade Show management in Shanghai, I’m also fluent in English, Mandarin and Taiwanese. Driven by a mission to build beautiful & meaningful products!
 
