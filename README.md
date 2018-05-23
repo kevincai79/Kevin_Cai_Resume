@@ -45,6 +45,7 @@ CostPers is an app that helps the consumer understand the value of purchased ite
 
 #### Jack Morton Worldwide, *Shanghai China* ----- Jan 2013 – Jan 2016
 PROJECT MANAGER OF EVENT PRODUCTION DIVISION
+
 Served as key member of executive leadership team, guiding and aligning global brand, marketing and product management activities with business objectives to drive revenue growth and market share.
 
 *  Planned and handled events with **1,500+ attendees with budgets of $750,000+**.
