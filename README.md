@@ -9,7 +9,7 @@ I’m an entrepreneur and innovator who has been in tech industry since early 20
 
 ### Project Execution (Software Development)
 
-####Kindle Classroom Project April 2018 - present####
+#### Kindle Classroom Project April 2018 - present
 The program promotes the love and power of **reading** by distributing **Kindles** and good books to **high/middle school students in Oakland and San Francisco**. This project started in 2012, **1900+ Kindles** and **1500+ e-books** have been donated and **tens of thousands of books have been read** by the high/middle school students by 2017. And the project is growing faster and faster each year.    
 *    A **Ruby on Rails** web app that builds online library, tracks kindles and books - request, read, write reviews etc.
 *    Web link: [Kindle Classroom Project](https://www.kindleclassroomproject.org/)   
@@ -24,7 +24,7 @@ Kevin’s Blog January 2018
 *    [Code details on Github](https://github.com/kevincai79/Kevin-Blog) | [Kevin's Blog](https://lit-stream-38404.herokuapp.com/)
 
 Parking Predixion October 2017
-*<GE’s Minds & Machines 2017 Hackathon Winner*
+*GE’s Minds & Machines 2017 Hackathon Winner*
 *    Crafted an app that was built in **React** frontend and **Python** backend, integrating **CityIQ API** and hosted on **Predix**.
 *    [Code details on Github](https://github.com/kevincai79/ParkingPrediXion)
 
