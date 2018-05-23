@@ -35,9 +35,5 @@ CostPers is an app that helps the consumer understand the value of purchased ite
 *    iOS app utilizing **React Native** and **Ruby on Rails**. Working with a team of 5, my responsibility was to own and create the features of login/logout, register, and all aspects of the item details page.
 *   [Code details on github](https://github.com/kevincai79/CostPers )  | [Vedio Demo](https://youtu.be/gu1ShLqjq8k)
 
-<a href="https://www.linkedin.com/in/kevincai1979/" target="_blank"><img src="https://github.com/kevincai79/Resume/blob/master/linkedin.jpg" 
+<a href="https://www.linkedin.com/in/kevincai1979/" target="_blank"><img src="https://github.com/kevincai79/Resume/blob/master/linkedin.jpeg" 
 alt="Linkedin" width=5%  border="10" /></a>
-
-
-[![Kevin's blog](https://github.com/kevincai79/Resume/blob/master/linkedin.jpg)](https://youtu.be/_V_SjGBaaEE)
-______
