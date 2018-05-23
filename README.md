@@ -44,31 +44,27 @@ CostPers is an app that helps the consumer understand the value of purchased ite
 <h2 align="center">Employment</h2>
 
 #### Jack Morton Worldwide, *Shanghai China* ----- Jan 2013 – Jan 2016
-```
 PROJECT MANAGER OF EVENT PRODUCTION DIVISION
 Served as key member of executive leadership team, guiding and aligning global brand, marketing and product management activities with business objectives to drive revenue growth and market share.
-```
+
 *  Planned and handled events with **1,500+ attendees with budgets of $750,000+**.
 *  **Secured recurring customers** by exceeding expectation with the launch of '50 Years of Porsche 911 Celebration', which impressed 600 VIPs resulting in **$700,000 incremental revenue**.  
 *  Managed all aspects of event execution and operations for Auto/Banking/Tech etc. industries.
 
 #### AvantGarde, *Shanghai China* ----- Jan 2012 – Dec 2012
-```
 PROJECT MANAGER OF PORSCHE DIVISION
-```
+
 *  Directed all aspects of **event execution** and **operations for Porsche events**.
 *  Spearheaded **Porsche Experience Tour** and **Porsche Drive to Excellent Event** resulting in **$600,000 incremental revenue**. 
 
 <h2 align="center">Education, Professional Development and Certifications</h2>
 
 #### Dev Bootcamp, *San Francisco* ----- Mar – Aug, 2017
-```
-Full Stack Software Development
-```
+**_Full Stack Software Development_**
+
 Intensive training program with **1,000+ hrs of pair programming**, specializing in **Ruby, Ruby on Rails, HTML5, CSS, Test Driven Development**. Javascript, Ajax, jQuery, React, React Native, Github, Heroku & Agile Development.
 
-#### Jimei University, *Xiamen China * ----- 1999 - 2002
-```
-Associate Degree of Economics & Trade
-```
+#### Jimei University, *Xiamen China* ----- 1999 - 2002
+**_Associate Degree of Economics & Trade_**
+
 
