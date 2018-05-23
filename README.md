@@ -24,7 +24,7 @@ The program promotes the love and power of **reading** by distributing **Kindles
 *    [Code details on Github](https://github.com/kevincai79/Kevin-Blog) | [Kevin's Blog](https://lit-stream-38404.herokuapp.com/)
 
 #### Parking Predixion - October 2017
-<p><strong><em>GE’s Minds & Machines 2017 Hackathon Winner</em></strong></p>
+<h5><em>GE’s Minds & Machines 2017 Hackathon Winner</em></h5>
 
 *    Crafted an app that was built in **React** frontend and **Python** backend, integrating **CityIQ API** and hosted on **Predix**.
 *    [Code details on Github](https://github.com/kevincai79/ParkingPrediXion)
