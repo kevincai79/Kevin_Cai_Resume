@@ -41,5 +41,34 @@ CostPers is an app that helps the consumer understand the value of purchased ite
 *    iOS app utilizing **React Native** and **Ruby on Rails**. Working with a team of 5, my responsibility was to own and create the features of login/logout, register, and all aspects of the item details page.
 *   [Code details on github](https://github.com/kevincai79/CostPers )  | [Vedio Demo](https://youtu.be/gu1ShLqjq8k)
 
-<a href="https://www.linkedin.com/in/kevincai1979/" target="_blank"><img src="https://github.com/kevincai79/Resume/blob/master/linkedin.jpeg" 
-alt="Linkedin" width=5%  border="10" /></a>
+<h2 align="center">Employment</h2>
+
+#### Jack Morton Worldwide, *Shanghai China* ----- Jan 2013 – Jan 2016
+```
+PROJECT MANAGER OF EVENT PRODUCTION DIVISION
+Served as key member of executive leadership team, guiding and aligning global brand, marketing and product management activities with business objectives to drive revenue growth and market share.
+```
+*  Planned and handled events with **1,500+ attendees with budgets of $750,000+**.
+*  **Secured recurring customers** by exceeding expectation with the launch of '50 Years of Porsche 911 Celebration', which impressed 600 VIPs resulting in **$700,000 incremental revenue**.  
+*  Managed all aspects of event execution and operations for Auto/Banking/Tech etc. industries.
+
+#### AvantGarde, *Shanghai China* ----- Jan 2012 – Dec 2012
+```
+PROJECT MANAGER OF PORSCHE DIVISION
+```
+*  Directed all aspects of **event execution** and **operations for Porsche events**.
+*  Spearheaded **Porsche Experience Tour** and **Porsche Drive to Excellent Event** resulting in **$600,000 incremental revenue**. 
+
+<h2 align="center">Education, Professional Development and Certifications</h2>
+
+#### Dev Bootcamp, *San Francisco* ----- Mar – Aug, 2017
+```
+Full Stack Software Development
+```
+Intensive training program with **1,000+ hrs of pair programming**, specializing in **Ruby, Ruby on Rails, HTML5, CSS, Test Driven Development**. Javascript, Ajax, jQuery, React, React Native, Github, Heroku & Agile Development.
+
+#### Jimei University, *Xiamen China * ----- 1999 - 2002
+```
+Associate Degree of Economics & Trade
+```
+
