@@ -60,11 +60,11 @@ PROJECT MANAGER OF PORSCHE DIVISION
 <h2 align="center">Education, Professional Development and Certifications</h2>
 
 #### Dev Bootcamp, *San Francisco* ----- Mar – Aug, 2017
-**_Full Stack Software Development_**
+_Full Stack Software Development_
 
 Intensive training program with **1,000+ hrs of pair programming**, specializing in **Ruby, Ruby on Rails, HTML5, CSS, Test Driven Development**. Javascript, Ajax, jQuery, React, React Native, Github, Heroku & Agile Development.
 
 #### Jimei University, *Xiamen China* ----- 1999 - 2002
-**_Associate Degree of Economics & Trade_**
+_Associate Degree of Economics & Trade_
 
 
