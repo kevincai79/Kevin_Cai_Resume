@@ -1,7 +1,7 @@
 # KEVIN CAI
 <h5>:iphone: (415) 919-7378 :email: kevincai1979@gmail.com 
 <a href="https://www.linkedin.com/in/kevincai1979/" target="_blank"><img src="https://github.com/kevincai79/Resume/blob/master/linkedin.jpeg" 
-alt="Linkedin" width=2.5%  border="10" /></a>
+alt="Linkedin" width=2.8%  border="10" /></a>
 <a href="https://github.com/kevincai79" target="_blank"><img src="https://github.com/kevincai79/Resume/blob/master/github.jpeg" 
 alt="Github" width=5%  border="10" /></a>
 </h5>
