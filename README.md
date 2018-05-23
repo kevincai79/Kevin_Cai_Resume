@@ -9,7 +9,7 @@ I’m an entrepreneur and innovator who has been in tech industry since early 20
 
 <h2 align="center">Project Execution (Software Development)</h2>
 
-<h4>Kindle Classroom Project - April 2018 - present</h4><h4 align="right">hello there</h4>
+<h4>Kindle Classroom Project &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April 2018 - present</h4>
 
 The program promotes the love and power of **reading** by distributing **Kindles** and good books to **high/middle school students in Oakland and San Francisco**. This project started in 2012, **1900+ Kindles** and **1500+ e-books** have been donated and **tens of thousands of books have been read** by the high/middle school students by 2017. And the project is growing faster and faster each year.    
 *    A **Ruby on Rails** web app that builds online library, tracks kindles and books - request, read, write reviews etc.
