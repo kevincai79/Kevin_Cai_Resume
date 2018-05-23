@@ -2,7 +2,7 @@
 
 I’m an entrepreneur and innovator who has been in tech industry since early 2017. With10+ years experience in Marketing, Event Planning and Trade Show management in Shanghai, I’m also fluent in English, Mandarin and Taiwanese. Driven by a mission to build beautiful & meaningful products!
 
-### Competencies that Create Results
+<h3 align="center">Competencies that Create Results</h3>
 
 *    Ruby | Ruby on Rails | Rspec | JavaScript | React | Redux | Node.js | React Native | jQuery | Ajax
 *    SQL | PostgreSQL | MongoDB | HTML | CSS | Xcode | Github | Heroku
