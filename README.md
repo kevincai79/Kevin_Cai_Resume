@@ -9,14 +9,14 @@ I’m an entrepreneur and innovator who has been in tech industry since early 20
 
 <h2 align="center">Project Execution (Software Development)</h2>
 
-<h4>Kindle Classroom Project &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April 2018 - present</h4>
+<h4>Kindle Classroom Project &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April 2018 - present</h4>
 
 The program promotes the love and power of **reading** by distributing **Kindles** and good books to **high/middle school students in Oakland and San Francisco**. This project started in 2012, **1900+ Kindles** and **1500+ e-books** have been donated and **tens of thousands of books have been read** by the high/middle school students by 2017. And the project is growing faster and faster each year.    
 *    A **Ruby on Rails** web app that builds online library, tracks kindles and books - request, read, write reviews etc.
 *    Web link: [Kindle Classroom Project](https://www.kindleclassroomproject.org/)   
 *   [Video Demo](https://youtu.be/Hu0rG1vPLqE) | [Facebook Page](https://www.facebook.com/kindleclassroom) | [Check out the project blog to see the impact and the happy students](http://iserotope.com/kindle-classroom-project)   
 
-#### Blog - March 2018
+#### Blog  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  March 2018
 *    A **React + Redux** blog app which includes the **OpenWeatherMap API** to show **real-time local weather** when the home page is loaded or the weather button is clicked.
 *    [Code details on Github](https://github.com/kevincai79/Blog) |  [Blog](https://infinite-sea-36325.herokuapp.com)
 
