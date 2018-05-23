@@ -2,12 +2,18 @@
 
 I’m an entrepreneur and innovator who has been in tech industry since early 2017. With10+ years experience in Marketing, Event Planning and Trade Show management in Shanghai, I’m also fluent in English, Mandarin and Taiwanese. Driven by a mission to build beautiful & meaningful products!
 
+______
+
 <h3 align="center">Competencies that Create Results</h3>
 
 *    Ruby | Ruby on Rails | Rspec | JavaScript | React | Redux | Node.js | React Native | jQuery | Ajax
 *    SQL | PostgreSQL | MongoDB | HTML | CSS | Xcode | Github | Heroku
 
+______
+
 <h3 align="center">Project Execution (Software Development)</h3>
+
+
 
 #### Kindle Classroom Project - April 2018 - present
 The program promotes the love and power of **reading** by distributing **Kindles** and good books to **high/middle school students in Oakland and San Francisco**. This project started in 2012, **1900+ Kindles** and **1500+ e-books** have been donated and **tens of thousands of books have been read** by the high/middle school students by 2017. And the project is growing faster and faster each year.    
@@ -33,3 +39,5 @@ The program promotes the love and power of **reading** by distributing **Kindles
 CostPers is an app that helps the consumer understand the value of purchased items. The app keeps track of how much you paid for an item, how many times you've used it and calculates the item's **real-time "cost per use”**.
 *    iOS app utilizing **React Native** and **Ruby on Rails**. Working with a team of 5, my responsibility was to own and create the features of login/logout, register, and all aspects of the item details page.
 *   [Code details on github](https://github.com/kevincai79/CostPers )  | [Vedio Demo](https://youtu.be/gu1ShLqjq8k)
+
+______
