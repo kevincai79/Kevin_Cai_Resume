@@ -7,7 +7,7 @@ I’m an entrepreneur and innovator who has been in tech industry since early 20
 *    Ruby | Ruby on Rails | Rspec | JavaScript | React | Redux | Node.js | React Native | jQuery | Ajax
 *    SQL | PostgreSQL | MongoDB | HTML | CSS | Xcode | Github | Heroku
 
-### Project Execution (Software Development)
+<h3 align="center">Project Execution (Software Development)</h3>
 
 #### Kindle Classroom Project - April 2018 - present
 The program promotes the love and power of **reading** by distributing **Kindles** and good books to **high/middle school students in Oakland and San Francisco**. This project started in 2012, **1900+ Kindles** and **1500+ e-books** have been donated and **tens of thousands of books have been read** by the high/middle school students by 2017. And the project is growing faster and faster each year.    
