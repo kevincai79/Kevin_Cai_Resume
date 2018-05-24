@@ -1,8 +1,8 @@
 <h1 align="center">KEVIN CAI</h1>
-<h6 align="center">:iphone: (415) 919-7378 :email: kevincai1979@gmail.com 
-<a href="https://www.linkedin.com/in/kevincai1979/" target="_blank"><img src="https://github.com/kevincai79/Resume/blob/master/linkedin.jpeg" 
-alt="Linkedin" width=2.8%  border="10" /></a>
-<a href="https://github.com/kevincai79" target="_blank"><img src="https://github.com/kevincai79/Resume/blob/master/github.jpeg" 
+<h6 align="center">:iphone: (415) 919-7378 :email: kevincai1979@gmail.com
+<a href="https://www.linkedin.com/in/kevincai1979/" target="_blank"><img src="https://assets.pcmag.com/media/images/408305-linkedin.jpg?width=333&height=245"
+alt="Linkedin" width=4%  border="10" /></a>
+<a href="https://github.com/kevincai79" target="_blank"><img src="https://assets-cdn.github.com/images/modules/open_graph/github-mark.png"
 alt="Github" width=5%  border="10" /></a>
 </h6>
 
@@ -55,7 +55,7 @@ served as key member of executive leadership team, guiding and aligning global b
 PROJECT MANAGER OF PORSCHE DIVISION
 
 *  Directed all aspects of **event execution** and **operations for Porsche events**.
-*  Spearheaded **Porsche Experience Tour** and **Porsche Drive to Excellent Event** resulting in **$600,000 incremental revenue**. 
+*  Spearheaded **Porsche Experience Tour** and **Porsche Drive to Excellent Event** resulting in **$600,000 incremental revenue**.
 
 <h2 align="center">Education, Professional Development and Certifications</h2>
 
@@ -66,5 +66,3 @@ Intensive training program with **1,000+ hrs of pair programming**, specializing
 
 #### Jimei University, *Xiamen China* ----- 1999 - 2002
 _Associate Degree of Economics & Trade_
-
-
